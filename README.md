@@ -28,4 +28,3 @@ DIP_LAB_ 2
     d) Closing
     Display the results
 10. Implement any image restoration algorithm
-11. 
